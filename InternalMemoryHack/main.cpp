@@ -1,6 +1,6 @@
 ﻿/*
 ───────────────────────────────────────────────────────────────────────────────
-  Author: OGKees
+  Author: KeesOG
 ───────────────────────────────────────────────────────────────────────────────
   Description:
   This DLL injects a thread into the process of the game to modify the player's
