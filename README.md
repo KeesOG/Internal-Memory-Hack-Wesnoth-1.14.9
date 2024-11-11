@@ -1,4 +1,4 @@
-# 🏰 Wesnoth Hack by KeesOG 🎮
+# 🏰 Internal Wesnoth Hack by KeesOG 🎮
 
 ## Overview
 Welcome to the Wesnoth Hack repository! This project features a dynamic link library (DLL) hack for the game "Battle for Wesnoth," engineered to boost your gold value by injecting a custom thread directly into the game's process. 🪄
